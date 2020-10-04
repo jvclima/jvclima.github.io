@@ -2,7 +2,7 @@
 date: 2020-10-02-17:00
 layout: post
 title: APRENDI NA WEB - EPISÓDIO 1 - MELHORANDO O VISUAL DE SUA VIDEOCHAMADA
-image: https://static.wixstatic.com/media/e09874_a5fc6f89db0c45cf88129a3371bb28a6~mv2.jpg/v1/fill/w_874,h_680,fp_0.53_0.25,q_85,usm_0.66_1.00_0.01/e09874_a5fc6f89db0c45cf88129a3371bb28a6~mv2.jpg
+image: https://img.youtube.com/vi/Pf1rMVOmrzQ/maxresdefault.jpg
 category: blog
 tags:
   - welcome
