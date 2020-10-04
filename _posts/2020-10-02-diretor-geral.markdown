@@ -17,4 +17,6 @@ paginate: true
 
 <iframe width="1095" height="616" src="https://www.youtube.com/embed/3RJhVHS73Vs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F9gag%2Fvideos%2F721343285262036%2F&show_text=0&width=380" width="380" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+
 Trabalho prático do primeiro ano do curso de Comunicação: Rádio TV e Internet, para a disciplina de Linguagem Audiovisual.
