@@ -12,3 +12,9 @@ permalink: /about/
 
 Bem-Vindos, a todes.
 Me chamo João Vitor de Campos, tenho vinte anos e sou graduando em Comunicação: Rádio, TV e Internet. Trabalho com produção e edição de vídeos.
+
+## Contato
+
+jvc.lima30090@gmail.com
+
+(19) 982895360
