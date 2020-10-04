@@ -1,8 +1,8 @@
 ---
 date: 2020-10-02-15:00
 layout: post
-title: Misturadamente
-image: https://static.wixstatic.com/media/e09874_42340a429200465ba2d990ee0eb353f8~mv2.jpg/v1/fill/w_874,h_380,fp_0.50_0.50,q_80,usm_0.66_1.00_0.01/e09874_42340a429200465ba2d990ee0eb353f8~mv2.webp
+title: Diretor Geral
+image: https://img.youtube.com/vi/3RJhVHS73Vs/maxresdefault.jpg
 category: blog
 tags:
   - Audiovisual
