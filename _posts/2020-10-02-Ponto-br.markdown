@@ -1,0 +1,19 @@
+---
+date: 2020-10-08-16:00
+layout: post
+title: Ponto BR Ep 3
+image: https://i.imgur.com/D39YaYp.png
+category: blog
+tags:
+  - Direção de Som
+  - Programa Musical
+  
+author: FAAC webTV
+paginate: true
+---
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Ffaacwebtv%2Fvideos%2F541124539773858%2F&show_text=true&width=560" width="560" height="429" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
+
+
+Link Virtual Lighting Studio: 
+http://www.zvork.fr/vls/
