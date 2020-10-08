@@ -1,0 +1,18 @@
+---
+date: 2020-10-07-23:18
+layout: post
+title: Altamira
+image: https://img.youtube.com/vi/_K-DD6fOTHU/hqdefault.jpg
+category: blog
+tags:
+  - Edição
+author: João Vitor de Campos
+paginate: true
+---
+
+<iframe width="1253" height="705" src="https://www.youtube.com/embed/_K-DD6fOTHU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Com uma linguagem descontraída, lúdica e simples, o video se trata sobre o município de Altamira, o maior município brasileiro.  
+
+Link Virtual Lighting Studio: 
+http://www.zvork.fr/vls/
