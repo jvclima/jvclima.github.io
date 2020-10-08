@@ -1,0 +1,17 @@
+date: 2020-10-07-21:20
+layout: post
+title: TV70 Episodio 1
+image: file:///C:/Users/Jvc30/Downloads/1.jpg
+category: blog
+tags:
+  - Produção
+  - Programa de TV
+author: FAAC webTV
+paginate: true
+---
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Ffaacwebtv%2Fvideos%2F1270336953358769%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+
+E está no ar o primeiro episódio da nossa tão amada tv70. E para estrear esse programa lindo vamos bater um papo com os nossos convidados Laura Costenaro, Leandror Oliveira, Vinicius Nascimento e Lucas Vida sobre estreia da tv no Brasil e comentar como essa quarentena eterna tá fazendo o passado e o presente parecer, afinal o que será que vem aí após o “novo normal”?
+
+Link Virtual Lighting Studio: 
+http://www.zvork.fr/vls/
