@@ -1,0 +1,17 @@
+---
+date: 2020-10-07-22:06
+layout: post
+title: TV 70 Ep 3
+image: //imgur.com/f1a520e1-0fa7-4472-83b2-85dd79624e22
+category: blog
+tags:
+  - Produção 
+  - Programa de Televisão
+author: FAAC webTV
+paginate: true
+---
+
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Ffaacwebtv%2Fvideos%2F389152522089222%2F&show_text=1&width=560" width="560" height="474" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
+
+Link Virtual Lighting Studio: 
+http://www.zvork.fr/vls/
