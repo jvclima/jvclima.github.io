@@ -2,7 +2,7 @@
 date: 2020-10-07-22:06
 layout: post
 title: TV 70 Ep 3
-image: //imgur.com/f1a520e1-0fa7-4472-83b2-85dd79624e22
+image: https://i.imgur.com/2C8PA8q.jpg
 category: blog
 tags:
   - Produção 
