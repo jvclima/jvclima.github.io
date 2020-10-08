@@ -2,7 +2,7 @@
 date: 2020-10-08-16:00
 layout: post
 title: Ponto BR Ep 1
-image: https://scontent.fcpq2-1.fna.fbcdn.net/v/t1.0-9/79470533_2821707217862869_1840145318830669824_o.jpg_nc_cat=100&_nc_sid=730e14&_nc_eui2=AeHMDnY9HwQVSjPk9ukkEEqOtZQQq4_qe161lBCrj-p7XgsWzF8OAXu-M0_DZJlLTdGkMQ00MCyMU_D8tL7p79Tu&_nc_ohc=7raLQxq01rUAX8iDpmx&_nc_oc=AQkzSC4BGp5VtGmypdvhBdTQoa4rm7TSCfYxOEpW_mGyIcWD6_0BKkH6ucQUWV1VdTgA15Aoix2paTZXCXJEubCD&_nc_ht=scontent.fcpq2-1.fna&oh=1159ddd9e86efa4b5b8003f518897021&oe=5FA67E67
+image: https://scontent.fcpq2-1.fna.fbcdn.net/v/t1.0-9/79470533_2821707217862869_1840145318830669824_o.jpg?_nc_cat=100&_nc_sid=730e14&_nc_eui2=AeHMDnY9HwQVSjPk9ukkEEqOtZQQq4_qe161lBCrj-p7XgsWzF8OAXu-M0_DZJlLTdGkMQ00MCyMU_D8tL7p79Tu&_nc_ohc=7raLQxq01rUAX8iDpmx&_nc_oc=AQkzSC4BGp5VtGmypdvhBdTQoa4rm7TSCfYxOEpW_mGyIcWD6_0BKkH6ucQUWV1VdTgA15Aoix2paTZXCXJEubCD&_nc_ht=scontent.fcpq2-1.fna&oh=1159ddd9e86efa4b5b8003f518897021&oe=5FA67E67
 
 category: blog
 tags:
