@@ -1,0 +1,16 @@
+---
+date: 2020-10-08-16:33
+layout: post
+title: Especial de Natal Faac Webtv
+image: https://scontent.fcpq2-1.fna.fbcdn.net/v/t1.0-9/78427203_2792367157463542_8988996693714272256_n.jpg?_nc_cat=108&_nc_sid=09cbfe&_nc_eui2=AeHV3NGGaWnuKyXCgUNX9HlyEIvd95QhtvEQi933lCG28endskcq60WDutjMAZWBk2jjdCTDC6fK0vNKcPh8gaCG&_nc_ohc=pioayYMsAuoAX8h2_jE&_nc_ht=scontent.fcpq2-1.fna&oh=98234f469089954bf9781d46d1c0ce5b&oe=5FA674BE
+category: blog
+tags:
+  - Produção 
+ 
+author: FAAC webTV
+paginate: true
+---
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Ffaacwebtv%2Fvideos%2F829430374171804%2F&show_text=true&width=560" width="560" height="429" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
+Link Virtual Lighting Studio: 
+http://www.zvork.fr/vls/
