@@ -1,0 +1,16 @@
+---
+date: 2020-10-08-16:00
+layout: post
+title: Ponto BR Especial
+image: https://scontent.fcpq2-1.fna.fbcdn.net/v/t1.0-9/80611693_2863111360389121_3032554409159557120_o.jpg?_nc_cat=110&_nc_sid=730e14&_nc_eui2=AeFZvRs-ojKmAhAku9uh5vn7rb4-BF3T4Yetvj4EXdPhh94aVgTUs01YR13vRqAeLasTmajkNcr-eNIWbu209mol&_nc_ohc=P7thWIwGtX4AX9zZuo2&_nc_ht=scontent.fcpq2-1.fna&oh=a9023ce4422ff40d518fd09c3e629e2f&oe=5FA48D4E
+category: blog
+tags:
+  - Direção de Som
+  - Programa Musical
+  
+author: FAAC webTV
+paginate: true
+---
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Ffaacwebtv%2Fvideos%2F594441091374285%2F&show_text=true&width=560" width="560" height="429" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>Link Virtual Lighting Studio: 
+http://www.zvork.fr/vls/
