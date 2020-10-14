@@ -3,7 +3,7 @@
 date: 2020-10-13-21:54
 layout: post
 title: 6d 61 74 72 69 78
-image: https://img.youtube.com/vi/k3JP4d7L_RQ/maxresdefault.jpg
+image: https://img.youtube.com/vi/UC87Tfj8hmE/hqdefault.jpg
 category: blog
 tags:
   - Direção
