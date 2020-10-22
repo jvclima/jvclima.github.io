@@ -10,7 +10,7 @@ permalink: /about/
 # João Vitor Campos
 ## Produtor Audiovisual
 
-Bem-Vindos, a todes.
+Bem-Vindes.
 Me chamo João Vitor de Campos, tenho vinte anos e sou graduando em Comunicação: Rádio, TV e Internet. Trabalho com produção e edição de vídeos.
 
 ## Contato
