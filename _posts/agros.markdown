@@ -6,7 +6,7 @@ image: https://scontent.fcpq2-1.fna.fbcdn.net/v/t1.0-9/66746380_2522229401143987
 category: blog
 tags:
   - Operação de Som
-author: João Vitor de Campos
+author: FAAC webTV
 paginate: true
 ---
 
