@@ -1,7 +1,7 @@
 ---
 date: 2019-07-11-23:18
 layout: post
-title: Ubiraci: Um novo móvel e uma nova vida
+title: Ubiraci, um novo móvel e uma nova vida
 image: https://scontent.fcpq2-1.fna.fbcdn.net/v/t1.0-9/66746380_2522229401143987_5595433348269867008_o.png?_nc_cat=101&ccb=2&_nc_sid=730e14&_nc_ohc=76Q0kL0QAxMAX_NAzg5&_nc_ht=scontent.fcpq2-1.fna&oh=3af84e4c1d26e943f151871498b5be40&oe=5FBB785E
 category: blog
 tags:
