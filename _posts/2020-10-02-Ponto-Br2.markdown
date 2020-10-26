@@ -1,5 +1,5 @@
 ---
-date: 2020-10-08-16:00
+date: 2019-12-20-16:00
 layout: post
 title: Ponto BR Ep 2
 image: https://scontent.fcpq2-1.fna.fbcdn.net/v/t1.0-9/80553719_2835361583164099_8447397267534512128_o.jpg?_nc_cat=106&_nc_sid=730e14&_nc_eui2=AeErFPDmR8aXdDeMAWG1Gl1wWJTNdqnlmNJYlM12qeWY0nMbDZJf-TTZXieGt9gtub0fqzPa8W3bilHj2Saojdji&_nc_ohc=4_TYd2MWv20AX96st6_&_nc_ht=scontent.fcpq2-1.fna&oh=1e676e9998012b0c8bee62190e481e21&oe=5FA58C3B
