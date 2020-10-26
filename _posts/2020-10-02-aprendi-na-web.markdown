@@ -1,5 +1,5 @@
 ---
-date: 2020-10-02-17:00
+date: 2020-08-31-17:00
 layout: post
 title: APRENDI NA WEB - EPISÓDIO 1 - MELHORANDO O VISUAL DE SUA VIDEOCHAMADA
 image: https://img.youtube.com/vi/Pf1rMVOmrzQ/maxresdefault.jpg
