@@ -1,5 +1,5 @@
 ---
-date: 2020-10-02-15:00
+date: 2019-12-03-15:00
 layout: post
 title: Misturadamente
 image: https://img.youtube.com/vi/Gu2JU6VGsI4/maxresdefault.jpg
