@@ -1,5 +1,5 @@
 ---
-date: 2020-10-07-22:06
+date: 2020-10-06-22:06
 layout: post
 title: TV 70 Ep 3
 image: https://i.imgur.com/2C8PA8q.jpg
