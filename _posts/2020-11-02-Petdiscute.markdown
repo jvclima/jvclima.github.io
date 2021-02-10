@@ -6,7 +6,7 @@ image: https://i.imgur.com/jq1Mirq.png
 category: blog
 tags:
   - Edição
-  - Entrevista
+  - Entrevista2
 author: PET - Rádio, TV e Internet 
 paginate: true
 ---
