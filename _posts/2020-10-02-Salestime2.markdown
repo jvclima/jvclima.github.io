@@ -14,5 +14,9 @@ paginate: true
 
 Segundo estudo da Failory, 90% das Startups falham, sendo que, destas que falham, 20% fecham as portas logo no primeiro ano de vida.
 
+O principal motivo pelo qual isso acontece é que elas não encontram o Product Market Fit, ou seja, não encontram uma sinergia entre a solução que oferecem e o mercado. Outro motivo muito recorrente consiste em um marketing deficiente.
+
+Neste vídeo, te explicamos um pouco mais sobre estes motivos e ensinamos o que você deve fazer para evitá-los e então levar sua Startup ao crescimento. 
+
 Link Virtual Lighting Studio: 
 http://www.zvork.fr/vls/
