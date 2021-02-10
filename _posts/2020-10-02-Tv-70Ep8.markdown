@@ -1,0 +1,17 @@
+---
+date: 2020-11-10-22:02
+layout: post
+title: TV 70 Ep 8
+image: https://img.youtube.com/vi/H-I8v3YZcgk/maxresdefault.jpg
+category: blog
+tags:
+  - Produção 
+  - Programa de Televisão
+author: FAAC webTV
+paginate: true
+---
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Ffaacwebtv%2Fvideos%2F372134153992886%2F&show_text=true&width=560" width="560" height="429" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+Link Virtual Lighting Studio: 
+http://www.zvork.fr/vls/
