@@ -1,0 +1,18 @@
+---
+date: 2021-02-04-22:21
+layout: post
+title: STARTUPS: Como evitar fechar as portas no primeiro ano de vida?
+image: https://img.youtube.com/vi/lwXKbPNCFHY/maxresdefault.jpg
+category: blog
+tags:
+  - Edição
+author: Salestime
+paginate: true
+---
+
+<iframe width="1903" height="800" src="https://www.youtube.com/embed/nUbF1KmPSZs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Segundo estudo da Failory, 90% das Startups falham, sendo que, destas que falham, 20% fecham as portas logo no primeiro ano de vida.
+
+Link Virtual Lighting Studio: 
+http://www.zvork.fr/vls/
