@@ -5,7 +5,7 @@ title: STARTUPS: Como evitar fechar as portas no primeiro ano de vida?
 image: https://img.youtube.com/vi/nUbF1KmPSZs/maxresdefault.jpg
 category: blog
 tags:
-  - Edição
+  - Edição2
 author: Salestime
 paginate: true
 ---
