@@ -1,5 +1,5 @@
 ---
-date: 2020-17-11-22:02
+date: 2020-11-17-22:02
 layout: post
 title: TV 70 Ep 2
 image: https://img.youtube.com/vi/opqJD2f3vEk/maxresdefault.jpg
