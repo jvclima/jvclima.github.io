@@ -1,7 +1,7 @@
 ---
 date: 2021-02-02-22:21
 layout: post
-title: PET DISCUTE - 1 EPISÓDIO | SAÚDE MENTAL NA PANDEMIA
+title: 5 passos para estruturar um Processo de Vendas na sua empresa
 image: https://img.youtube.com/vi/lwXKbPNCFHY/maxresdefault.jpg
 category: blog
 tags:
