@@ -2,7 +2,7 @@
 date: 2020-10-27-22:02
 layout: post
 title: TV 70 Ep 6
-image: https://imgur.com/a/nvgeoHa
+image: https://img.youtube.com/vi/cEbuipReF8g/maxresdefault.jpg
 category: blog
 tags:
   - Produção 
