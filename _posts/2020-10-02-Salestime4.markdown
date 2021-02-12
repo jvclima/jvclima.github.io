@@ -1,0 +1,20 @@
+---
+date: 2021-02-11-22:21
+layout: post
+title: O que um BOM GESTOR deve analisar em um CRM de vendas
+image: https://img.youtube.com/vi/b7jQF40cv3o/maxresdefault.jpg
+category: blog
+tags:
+  - Edição
+author: Salestime
+paginate: true
+---
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/b7jQF40cv3o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Uma pesquisa norte-americana revela que a cada dólar investido em um CRM, o retorno é de 9 dólares. Fato que demonstra a importância do uso da tecnologia para alcançar melhores resultados.
+
+Neste vídeo, vamos te contar o que um gestor de alta performance deve analisar em um CRM de vendas, a fim de otimizar o processo e alavancar as vendas. 
+
+Link Virtual Lighting Studio: 
+http://www.zvork.fr/vls/
