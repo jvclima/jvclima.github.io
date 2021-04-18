@@ -1,0 +1,18 @@
+---
+date: 2021-03-02-22:21
+layout: post
+title: Como definir um PERFIL DE CLIENTE IDEAL e aumentar suas vendas
+image: https://img.youtube.com/vi/VpPYzG8-7Q0/maxresdefault.jpg
+category: blog
+tags:
+  - Edição
+author: Salestime
+paginate: true
+---
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/VpPYzG8-7Q0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+A primeira etapa do desenvolvimento de qualquer negócio é mapear e conhecer o Perfil de Cliente Ideal (ICP) para a solução.
+
+Link Virtual Lighting Studio: 
+http://www.zvork.fr/vls/
