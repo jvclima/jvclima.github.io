@@ -1,0 +1,18 @@
+---
+date: 2021-03-04-22:21
+layout: post
+title: FUNIL DE VENDAS: o que é, como medir e otimizar sua eficiência
+image: https://img.youtube.com/vi/v78dzkFytHg/maxresdefault.jpg
+category: blog
+tags:
+  - Edição
+author: Salestime
+paginate: true
+---
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/v78dzkFytHg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+O desejo de qualquer gestor é otimizar o funil de vendas e os indicadores comerciais, a fim de aumentar a receita gerada através de vendas. Afinal, um funil eficiente gera mais conversões e mais fechamentos.
+
+Link Virtual Lighting Studio: 
+http://www.zvork.fr/vls/
