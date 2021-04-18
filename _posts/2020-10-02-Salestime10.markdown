@@ -1,0 +1,20 @@
+---
+date: 2021-03-10-22:21
+layout: post
+title: METODOLOGIA BANT: aprenda a qualificar seus leads
+image: https://img.youtube.com/vi/0Qp34U4_f8U/maxresdefault.jpg
+category: blog
+tags:
+  - Edição
+author: Salestime
+paginate: true
+---
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/0Qp34U4_f8U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Não perca mais tempo com leads que não se convertem em clientes.
+
+Aprenda a usar a metodologia BANT para qualificar seus leads de maneira simples e eficaz.
+
+Link Virtual Lighting Studio: 
+http://www.zvork.fr/vls/
