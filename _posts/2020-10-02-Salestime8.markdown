@@ -1,7 +1,7 @@
 ---
 date: 2020-03-04-21:46
 layout: post
-title: FUNIL DE VENDAS: o que é, como medir e otimizar sua eficiência
+title: FUNIL DE VENDAS - o que é, como medir e otimizar sua eficiência
 image: https://img.youtube.com/vi/v78dzkFytHg/maxresdefault.jpg
 category: blog
 tags: Edição
