@@ -1,7 +1,7 @@
 ---
 date: 2021-04-14-22:21
 layout: post
-title:Como se diferenciar nas VENDAS B2B
+title: Como se diferenciar nas VENDAS B2B
 image: https://img.youtube.com/vi/JdjEYktzSj0/maxresdefault.jpg
 category: blog
 tags:
