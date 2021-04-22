@@ -1,0 +1,20 @@
+---
+date: 2021-02-19-22:21
+layout: post
+title: MARKETING E VENDAS - como integrar essas áreas para VENDER MAIS
+image: https://img.youtube.com/vi/Ifz78WZOih0/maxresdefault.jpg
+category: blog
+tags:
+  - Edição
+author: Salestime
+paginate: true
+---
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/Ifz78WZOih0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Ter as áreas de Marketing e Vendas alinhadas é fundamental para qualquer empresa vender mais. 
+Enquanto o Marketing busca gerar novos leads, as Vendas procuram convertê-los em clientes.
+Neste vídeo, vou te falar mais sobre a importância de integrar Marketing e Vendas, sobre os benefícios gerados e, mais importante, como fazer tudo isso, na prática, através da criação de um SLA.
+
+Link Virtual Lighting Studio: 
+http://www.zvork.fr/vls/
