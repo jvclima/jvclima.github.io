@@ -1,0 +1,19 @@
+---
+date: 2021-03-16-22:21
+layout: post
+title: GPCT - como usar a metodologia para qualificar leads
+image: https://img.youtube.com/vi/qpxS2-x3jOk/maxresdefault.jpg
+category: blog
+tags:
+  - Edição
+author: Salestime
+paginate: true
+---
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/qpxS2-x3jOk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+A metodologia GPCT foi desenvolvida pelo time de vendas da Hubspot e hoje ampara diversas empresas do mercado. 
+Neste vídeo, vamos te apresentar o GPCT e te mostrar como você pode aplicá-lo nas suas prospecções para não perder tempo com leads que não vão comprar com você.
+
+Link Virtual Lighting Studio: 
+http://www.zvork.fr/vls/
