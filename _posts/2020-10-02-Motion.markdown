@@ -1,0 +1,18 @@
+---
+date: 2021-03-13-22:21
+layout: post
+title: Motion - João Vitor
+image: https://img.youtube.com/vi/PQdfosZLmrA/maxresdefault.jpg
+category: blog
+tags:
+  - Edição
+author: Salestime
+paginate: true
+---
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/PQdfosZLmrA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Motion rápida feita para um workshop
+
+Link Virtual Lighting Studio: 
+http://www.zvork.fr/vls/
