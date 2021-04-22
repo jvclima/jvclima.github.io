@@ -1,7 +1,7 @@
 ---
-date: 2021-02-19-22:21
+date: 2021-04-08-22:21
 layout: post
-title: 3 DICAS para construir um MVP de SUCESSO
+title: NICHO DE MERCADO - o que é e como escolher um para seu negócio
 image: https://img.youtube.com/vi/mU_VqkmvdEs/maxresdefault.jpg
 category: blog
 tags:
