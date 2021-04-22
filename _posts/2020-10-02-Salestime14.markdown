@@ -1,0 +1,18 @@
+---
+date: 2021-04-14-22:21
+layout: post
+title:Como se diferenciar nas VENDAS B2B
+image: https://img.youtube.com/vi/JdjEYktzSj0/maxresdefault.jpg
+category: blog
+tags:
+  - Edição
+author: Salestime
+paginate: true
+---
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/JdjEYktzSj0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Entenda o que são as vendas B2B e como se diferenciar dos seus concorrentes e se tornar líder de mercado.
+
+Link Virtual Lighting Studio: 
+http://www.zvork.fr/vls/
