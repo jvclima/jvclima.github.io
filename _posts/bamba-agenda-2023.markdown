@@ -2,7 +2,7 @@
 date: 2023-01-25-22:00
 layout: post
 title: agenda semanal bamba janeiro
-image: https://scontent.fcpq2-1.fna.fbcdn.net/v/t1.0-9/78427203_2792367157463542_8988996693714272256_n.jpg?_nc_cat=108&_nc_sid=09cbfe&_nc_eui2=AeHV3NGGaWnuKyXCgUNX9HlyEIvd95QhtvEQi933lCG28endskcq60WDutjMAZWBk2jjdCTDC6fK0vNKcPh8gaCG&_nc_ohc=pioayYMsAuoAX8h2_jE&_nc_ht=scontent.fcpq2-1.fna&oh=98234f469089954bf9781d46d1c0ce5b&oe=5FA674BE
+image: https://dl1.instavideosave.com/?url=https%3A%2F%2Fscontent.cdninstagram.com%2Fv%2Ft51.2885-15%2F327193716_716047999913292_7929545512443115480_n.jpg%3Fstp%3Ddst-jpg_e15%26_nc_ht%3Dscontent.cdninstagram.com%26_nc_cat%3D100%26_nc_ohc%3D8d0grs_R8s8AX8LbBI0%26edm%3DAPs17CUBAAAA%26ccb%3D7-5%26oh%3D00_AfBv18UutdGR2tbMq6VzndHt8eKR04A7CDwstMjCraoE0w%26oe%3D63D715AC%26_nc_sid%3D978cb9&type=mp4&dlheader=image/jpeg&title=44189299610
 category: blog
 tags:
   - Edição
