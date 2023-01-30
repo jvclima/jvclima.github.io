@@ -2,7 +2,7 @@
 date: 2023-01-25-22:00
 layout: post
 title: agenda semanal bamba janeiro
-image: https://imgur.com/a/8WYVNLD
+image: [https://imgur.com/a/8WYVNLD]
 category: blog
 tags:
   - Edição
