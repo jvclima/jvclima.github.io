@@ -2,7 +2,7 @@
 date: 2022-06-06-22:00
 layout: post
 title: castrar um ato
-image: 
+image: https://i.imgur.com/rUyLcLr.jpg
 category: blog
 tags:
   - Edição
