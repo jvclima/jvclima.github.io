@@ -2,7 +2,7 @@
 date: 2021-10-19-22:00
 layout: post
 title: bença institucional
-image: 
+image: https://i.imgur.com/cKojpi2.jpg
 category: blog
 tags:
   - Edição
