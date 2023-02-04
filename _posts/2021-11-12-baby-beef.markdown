@@ -2,7 +2,7 @@
 date: 2021-11-12-22:00
 layout: post
 title: baby beef
-image: https://imgur.com/3137fdb1-d25f-4d22-8645-9ff14be4a320
+image: https://i.imgur.com/wYoZ6KZ.jpg
 category: blog
 tags:
   - Edição
