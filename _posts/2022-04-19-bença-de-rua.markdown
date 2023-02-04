@@ -1,7 +1,7 @@
 date: 2022-04-19-22:00
 layout: post
 title: vem ai o 1º bença de rua 
-image: https://i.imgur.com/squxySA.png
+image: 
 category: blog
 tags:
   - Edição
