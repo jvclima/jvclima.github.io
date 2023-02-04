@@ -2,7 +2,7 @@
 date: 2022-11-12-22:00
 layout: post
 title: camarote bamba bar
-image: 
+image: https://i.imgur.com/IqFiG3D.jpg
 category: blog
 tags:
   - Edição
