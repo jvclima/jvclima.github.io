@@ -2,7 +2,7 @@
 date: 2022-01-26-22:00
 layout: post
 title: dia da gula modo bença
-image: https://i.imgur.com/wMEz0H8.jpg
+image: https://i.imgur.com/cBXK9b9.jpg
 category: blog
 tags:
   - Edição
