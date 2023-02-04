@@ -2,7 +2,7 @@
 date: 2021-11-10-22:00
 layout: post
 title: batata chips free bença parrilla 
-image: https://imgur.com/5453e82a-2b50-43f5-a056-d394fbc1669a
+image:https://i.imgur.com/JpgxedE.png
 category: blog
 tags:
   - Edição
