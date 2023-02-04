@@ -1,7 +1,7 @@
 date: 2023-01-10-22:00
 layout: post
 title: happy hour do vossa 
-image: https://imgur.com/a/w6fzRux
+image: https://i.imgur.com/w3hQW9c_d.jpg?maxwidth=520&shape=thumb&fidelity=high
 category: blog
 tags:
   - Edição
