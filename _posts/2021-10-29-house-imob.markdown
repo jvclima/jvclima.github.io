@@ -2,7 +2,7 @@
 date: 2021-10-29-22:00
 layout: post
 title: marcio recomenda house imob
-image: 
+image: https://i.imgur.com/VQ19kd7.jpg
 category: blog
 tags:
   - Edição
