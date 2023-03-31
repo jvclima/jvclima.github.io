@@ -2,7 +2,7 @@
 date:2022-02-22-22:00
 layout:post
 title:hb20 edição limitada copa chegou  
-image: https://imgur.com/a/EVZZkxV
+image: https://i.imgur.com/Z27wVey.jpg
 category: blog
 tags:
 - Edição
